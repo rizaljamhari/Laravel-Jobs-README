@@ -1,4 +1,4 @@
-### Laravel Queue
+### Laravel Queues
 
 1. change .env
 ```
@@ -24,5 +24,5 @@ note: install Supervisor to start queue:work automatically
 sudo apt-get install supervisor
 ```
 Official Documentation
-- [Laravel Queue Documentation](https://laravel.com/docs/5.4/queues)
-- [Queue Tutorial](https://scotch.io/tutorials/why-laravel-queues-are-awesome)
+- [Laravel Queues Documentation](https://laravel.com/docs/5.4/queues)
+- [Queues Tutorial](https://scotch.io/tutorials/why-laravel-queues-are-awesome)
