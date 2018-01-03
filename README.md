@@ -23,3 +23,6 @@ note: install Supervisor to start queue:work automatically
 ```shell
 sudo apt-get install supervisor
 ```
+Official Documentation
+- [Laravel Queue Documentation](https://laravel.com/docs/5.4/queues)
+- [Queue Tutorial](https://scotch.io/tutorials/why-laravel-queues-are-awesome)
